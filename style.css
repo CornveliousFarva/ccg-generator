@@ -1,0 +1,12 @@
+*{
+    box-sizing: border-box;
+}
+
+cards-div{
+    background-color: yellowgreen;
+}
+
+yellow-card-btn{
+    background-color: yellow;
+    padding: 5 5 5 5;
+}
